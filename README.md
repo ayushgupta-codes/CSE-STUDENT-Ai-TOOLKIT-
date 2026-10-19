@@ -74,7 +74,7 @@ This project aims to help students:
 
 #🗺️ Roadmap
 
-- [x] Create the initial project structure
+- [] Create the initial project structure
 - [ ] Add Python number system converter
 - [ ] Add calculator and unit tests
 - [ ] Document essential Linux commands
